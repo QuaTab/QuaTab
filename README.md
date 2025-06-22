@@ -28,7 +28,7 @@
   -  [Баг-репорты](https://github.com/QuaTab/briefcase/tree/main/bug_report)
      
 - SQL запросы
-  -  [SQL запросы](https://github.com/QuaTab/briefcase/tree/main/SQL)
+  -  [SQL запросы](https://github.com/QuaTab/briefcase/blob/main/SQL/sql.md)
 
 - Коллекция в Postman
   -  [Заглушка]
