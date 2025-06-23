@@ -37,6 +37,7 @@
 ### 🏆 Сертификаты
   - [Тестирование ПО с Нуля до Специалиста](https://github.com/QuaTab/briefcase/blob/main/certificate/stepik-certificate-qa.pdf)
   - [Тестирование ПО: Postman для тестирования API](https://github.com/QuaTab/briefcase/blob/main/certificate/stepik-certificate-postman.pdf)
+  - [Тестирование ПО с нуля. Теория + Практика. Уровень BASIC](https://github.com/QuaTab/briefcase/blob/main/certificate/stepik-certificate-qa2.pdf)
 ---
 ### 📋 Пройденные курсы
   - [Stepik - Тестирование ПО с Нуля до Специалиста]
@@ -45,3 +46,4 @@
   - [Stepik - Поколение Python: курс для начинающих]
   - [Stepik - Основы Git и GitHub]
   - [Stepik - Интерактивный тренажер по SQL]
+  - [Stepik - Тестирование ПО с нуля. Теория + Практика. Уровень BASIC]
