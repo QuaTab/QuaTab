@@ -19,6 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL)
+![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaver)
 ---
 
 ### 📁 Портфолио
