@@ -33,7 +33,7 @@
   -  [SQL запросы](https://github.com/QuaTab/briefcase/blob/main/SQL/sql.md)
 
 - Коллекция в Postman
-  -  [Заглушка]
+  -  [Demo-shop](https://www.postman.com/engitab-3000950/workspace/vladislav-taboyakov-s-workspace/collection/47074262-1b745c92-3279-42f9-9cd3-f6309281a0e5?action=share&creator=47074262)
 ---
 
 ### 🏆 Сертификаты
